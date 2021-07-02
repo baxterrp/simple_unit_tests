@@ -6,5 +6,10 @@
         {
             return numOne + numTwo;
         }
+
+        public double Subtract(double numOne, double numTwo)
+        {
+            return numOne - numTwo;
+        }
     }
 }
