@@ -11,5 +11,10 @@
         {
             return numOne - numTwo;
         }
+
+        public double Divide(double numOne, double numTwo)
+        {
+            return numOne / numTwo;
+        }
     }
 }
